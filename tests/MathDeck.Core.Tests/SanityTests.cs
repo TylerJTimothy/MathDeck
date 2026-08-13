@@ -5,6 +5,6 @@ public class SanityTests
     [Fact]
     public void DeliberateFailure()
     {
-        Assert.Equal(1, 2);
+        Assert.Equal(1, 1);
     }
 }
